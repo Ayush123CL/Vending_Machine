@@ -77,6 +77,5 @@ The design was validated against a rigorous test suite to ensure stability under
 
 ## 👤 Author
 **Ayush Moharana**
-*Electronics Club, IIT Guwahati*
+Kshitij IIT Kharagpur
 * **GitHub:** [Ayush123CL](https://github.com/Ayush123CL)
-* **Project:** [RISC-V-Processor](https://github.com/Ayush123CL/RISC-V-Processor)
